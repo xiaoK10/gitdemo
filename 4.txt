@@ -1,3 +1,14 @@
+<<<<<<< HEAD
 fdsafdsa
 4324324
 5edfds
+=======
+
+fdsafdsa
+fdsafdsafdsa
+fdsafdsagfd
+gf
+gfd
+
+fdsafdsagfdgit 
+>>>>>>> V1
