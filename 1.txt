@@ -10,3 +10,8 @@ rewqrewq
 
 fdsafdsaf
 rewqfdsafsadgit rewq
+<<<<<<< HEAD
+=======
+fdsafd范德萨范德萨冠福股份saf
+rewqrewqgit
+>>>>>>> V1
